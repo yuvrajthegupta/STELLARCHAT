@@ -72,43 +72,52 @@ Installation Steps:
 bash
 Copy code
 git clone https://github.com/your-username/stellarchat.git
+
 2. Navigate to the Project Directory:
 
 bash
 Copy code
 cd stellarchat
+
 3. Install Dependencies:
 
 Copy code
 npm install
+
 4. Configure Stellar Wallet:
 
 Create a Stellar wallet if you don't have one already.
 Obtain your Stellar wallet address and secret key.
 Update the .env file with your Stellar wallet information.
+
 5. Start the Application:
 
 sql
 Copy code
 npm start
+
 6. Access STELLARCHAT:
 
 Open your web browser and navigate to http://localhost:3000.
 You should see the STELLARCHAT login page.
+
 7. Register/Login:
 
 If you're a new user, click on the "Register" button to create an account.
 If you already have an account, enter your credentials and click "Login".
+
 8. Start Messaging:
 
 Once logged in, you can start sending messages to other users on the Stellar network.
 Enter the recipient's Stellar wallet address and compose your message.
 Click "Send" to securely send your message.
+
 9. Manage Contacts:
 
 You can manage your contacts by navigating to the "Contacts" section.
 Add new contacts by entering their Stellar wallet address.
 View and delete existing contacts as needed.
+
 10. Explore Additional Features:
 
 Explore additional features such as message encryption, transaction history, and account settings.
